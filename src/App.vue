@@ -2,7 +2,7 @@
   <div id="app">
     <div class="fm-header">
       <img class="fm-logo" src="./assets/logo.png">
-      <div class="fm-title">表单设计器</div>
+      <div class="fm-title">页面设计器</div>
     </div>
     <div class="fm-container"><router-view/></div>
   </div>
